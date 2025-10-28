@@ -1,6 +1,6 @@
 Dataset Proposal – Student Academic Performance Prediction
 
-Author: Ing. Erick Banegas
+Author: Erick Banegas, Alhassane Samassekou, Peter Amoyeola
 Date: October 2025
 Dataset Source: Kaggle – Student Academic Performance Dataset
 
