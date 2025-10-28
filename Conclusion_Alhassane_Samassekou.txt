@@ -1,0 +1,5 @@
+MidTerm Conclusion - 	Alhassane Samassekou
+This project taught me that good data is just as important as good models. 
+Our 51.5% accuracy showed me that the Pass/Fail labels were random, and high-scoring students failed as often as low-scoring ones. 
+I improved the approach by testing four different models. The 51.5% accuracy was actually the best possible for this random data. 
+I learned that identifying and explaining data problems is an important skill in real AI work.
