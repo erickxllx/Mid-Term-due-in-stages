@@ -1,0 +1,6 @@
+In this project, I successfully cleaned, analyzed, and enhanced a student performance dataset.
+I standardized the text data, handled missing values, and removed duplicates to ensure accuracy. 
+I also created new features — average score and study efficiency — to provide deeper insight into academic performance. 
+Through visualizations such as boxplots and heatmaps, I was able to identify outliers and understand relationships between study habits and results.
+The final dataset was exported as a clean and ready-to-use file for further modeling or reporting. 
+Overall, this project improved data quality, revealed meaningful patterns, and prepared the data for predictive analysis.
